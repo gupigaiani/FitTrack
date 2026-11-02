@@ -1,0 +1,17 @@
+﻿{
+    "flutter":  {
+                    "platforms":  {
+                                      "dart":  {
+                                                   "lib/firebase_options.dart":  {
+                                                                                     "projectId":  "fittrack-5b367",
+                                                                                     "configurations":  {
+                                                                                                            "web":  "1:65272508156:web:5e1d2a2d9a3af090ce7179"
+                                                                                                        }
+                                                                                 }
+                                               }
+                                  }
+                },
+    "firestore":  {
+                      "rules":  "firestore.rules"
+                  }
+}
